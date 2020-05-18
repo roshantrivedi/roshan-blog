@@ -3,7 +3,7 @@ module.exports = {
     title: `Roshan Trivedi Blog`,
     author: {
       name: `Roshan Trivedi`,
-      summary: `,lives in Mysore learning & building new things.`,
+      summary: `who lives in Mysore learning and building new things.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://roshantrivedi.netlify.app/`,
